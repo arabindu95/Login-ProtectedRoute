@@ -4,8 +4,6 @@ import Header from "./components/Header";
 import Footer from "./components/Footer";
 
 function App() {
-  const location = useLocation();
-  // const isRegisterroute = location.pathname === "/register";
 
   return (
     <>
